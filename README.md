@@ -1,2 +1,6 @@
 # d3.geoTile
-D3 plugin to add tiles to a d3 map
+
+Npm package of [Mike Bostock's implementation]. Adapted to be compatible with and follow d3 v4.x new naming convention.
+
+
+[Mike Bostock's implementation]: https://github.com/d3/d3-plugins/tree/master/geo/tile
