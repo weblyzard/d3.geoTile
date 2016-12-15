@@ -1,4 +1,4 @@
-var d3 = require('d3');
+var d3 = require('d3-array');
 
 module.exports = function() {
   var size = [960, 500],
