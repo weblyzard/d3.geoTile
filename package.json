@@ -1,6 +1,6 @@
 {
   "name": "d3.geoTile",
-  "version": "1.0.1",
+  "version": "0.0.3",
   "description": "D3 plugin to add tiles to a d3 map",
   "main": "index.js",
   "author": {
